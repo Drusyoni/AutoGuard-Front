@@ -1,2 +1,1 @@
-# AutoGuard-Front
-Landing Page
+# LandingPage
